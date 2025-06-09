@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá. Bem Vindo ao meu perfil do Github
 
-<!--
-**TiagoAlbuquerqueSantos/TiagoAlbuquerqueSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/TiagoAlbuquerqueSantos/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoAlbuquerqueSantos&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/TiagoAlbuquerqueSantos">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoAlbuquerqueSantos&layout=compact&theme=tokyonight" />
+</a>
 
-Here are some ideas to get you started:
+<img height="228em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoAlbuquerqueSantos&theme=tokyonight" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="10" />
