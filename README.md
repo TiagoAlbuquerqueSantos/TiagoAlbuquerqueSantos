@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoAlbuquerqueSantos&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/TiagoAlbuquerqueSantos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoAlbuquerqueSantos&layout=compact&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoAlbuquerqueSantos&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
 </a>
 
 <img height="228em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiagoAlbuquerqueSantos&theme=tokyonight" />
